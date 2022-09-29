@@ -77,12 +77,10 @@ function tienenMismaLongitud(str1, str2) {
   if (str1.length === str2.length){
     return true
   }
-  else {(str1.lenght !== str2.length) 
+  else 
     return false
-  }
   
-  
- }
+   }
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
